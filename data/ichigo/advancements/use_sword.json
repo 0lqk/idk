@@ -1,0 +1,9 @@
+{
+    "criteria": {
+      "right_click": {
+        "trigger": "minecraft:item_used_on_block",
+        "conditions": {}
+      }
+    }
+  }
+  
